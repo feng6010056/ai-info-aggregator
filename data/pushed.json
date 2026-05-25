@@ -6377,6 +6377,228 @@
       "pushed_at": "2026-05-24",
       "title": "内外资机构密集调研，瞄准A股景气赛道",
       "score": 5
+    },
+    {
+      "url": "https://www.ifanr.com/1666847?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-05-25",
+      "title": "将 600 亿参数大模型装进手机的瓶颈，终于被中国 AI 公司突破了",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tmpyhj/i_got_tired_of_ai_reading_code_without/",
+      "pushed_at": "2026-05-25",
+      "title": "I got tired of AI reading code without understanding the project, so I built this",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tn1jjy/i_made_a_localfirst_mcp_tutorial_repo_with/",
+      "pushed_at": "2026-05-25",
+      "title": "I made a local-first MCP tutorial repo with node-llama-cpp and a custom agent loop",
+      "score": 8
+    },
+    {
+      "url": "https://36kr.com/p/3824053061652616?f=rss",
+      "pushed_at": "2026-05-25",
+      "title": "机器人力传感器龙头再获数亿融资，上汽、中芯等抢先入局",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1tmr2ri/i_spent_2_years_thinking_i_had_a_sales_problem/",
+      "pushed_at": "2026-05-25",
+      "title": "I spent 2 years thinking i had a sales problem when i actually had a leaking bucket problem",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/jacksonsolid/Bytery",
+      "pushed_at": "2026-05-25",
+      "title": "Show HN: Bytery – a binary JSON protocol ~10x faster and ~10x smaller",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tn3i55/i_built_a_computer_use_sandbox_framework_for/",
+      "pushed_at": "2026-05-25",
+      "title": "I built a computer use sandbox framework for codex on headless linux. GPU passthrough, computer use, and sudo access for codex all work. It's the perfect dev sandbox to allow full auto work while minimizing the \"rm -rf /\" risk",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tn3tci/numindnuextract3_hugging_face/",
+      "pushed_at": "2026-05-25",
+      "title": "numind/NuExtract3 · Hugging Face",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "pushed_at": "2026-05-25",
+      "title": "anthropics/knowledge-work-plugins",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/blakeblackshear/frigate",
+      "pushed_at": "2026-05-25",
+      "title": "blakeblackshear/frigate",
+      "score": 7
+    },
+    {
+      "url": "https://36kr.com/p/3819931562414467?f=rss",
+      "pushed_at": "2026-05-25",
+      "title": "华为具身大脑一号位做类脑智能世界模型，对标JEPA，获亿元级融资｜硬氪首发",
+      "score": 7
+    },
+    {
+      "url": "https://www.ifanr.com/1666548?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-05-25",
+      "title": "DeepSeek 要用蜜雪冰城的打法，做中国版 Claude Code",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tn43cd/faurya_privacyfirst_analytics_that_connects/",
+      "pushed_at": "2026-05-25",
+      "title": "Faurya - privacy-first analytics that connects traffic sources to Stripe revenue.",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tn4ek8/i_was_building_a_reddit_analytics_tool_for_geo_my/",
+      "pushed_at": "2026-05-25",
+      "title": "I was building a Reddit analytics tool for GEO. My own data talked me out of it before launch.",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tn4l0a/rejected_by_google_for_startups_cloud_program_3/",
+      "pushed_at": "2026-05-25",
+      "title": "Rejected by Google for Startups Cloud Program 3 times with 5k users and a working AI product. What am I missing?",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tn3mbj/i_built_an_ai_chatbot_for_fanvue_that_is_inspired/",
+      "pushed_at": "2026-05-25",
+      "title": "I built an AI chatbot for Fanvue that is inspired by ranked League of Legends.",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tn3euw/ai_products_dont_just_lose_accuracy_over_timethey/",
+      "pushed_at": "2026-05-25",
+      "title": "AI products don’t just lose accuracy over time.....they lose coherence",
+      "score": 6
+    },
+    {
+      "url": "https://simonwillison.net/2026/May/24/datasette/#atom-everything",
+      "pushed_at": "2026-05-25",
+      "title": "datasette 1.0a30",
+      "score": 6
+    },
+    {
+      "url": "https://www.tinyvolt.com/geomatic",
+      "pushed_at": "2026-05-25",
+      "title": "Show HN: Geomatic – a command-driven geometry studio enabled with autodiff",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tn0jyp/server_fix_checkpoints_creation_by_jacekpoplawski/",
+      "pushed_at": "2026-05-25",
+      "title": "server: fix checkpoints creation by jacekpoplawski · Pull Request #22929 · ggml-org/llama.cpp",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tmy4g9/wrote_a_custom_c_engine_for_minicpmv_46_on_orange/",
+      "pushed_at": "2026-05-25",
+      "title": "Wrote a custom C++ engine for MiniCPM-V 4.6 on Orange Pi AIPro (Ascend 310B) to bypass framework overhead",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/earendil-works/pi",
+      "pushed_at": "2026-05-25",
+      "title": "earendil-works/pi",
+      "score": 6
+    },
+    {
+      "url": "https://github.com/manaflow-ai/cmux",
+      "pushed_at": "2026-05-25",
+      "title": "manaflow-ai/cmux",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3820241871409543?f=rss",
+      "pushed_at": "2026-05-25",
+      "title": "对话欧洲地图商TomTom：中国订单暴涨10倍，帮助中国辅助驾驶出海｜最前线",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3824089662853513?f=rss",
+      "pushed_at": "2026-05-25",
+      "title": "36氪首发 | 商汤国香投了一家消费级空间相机公司，为具身智能采集真实世界数据",
+      "score": 6
+    },
+    {
+      "url": "https://36kr.com/p/3824073646624899?f=rss",
+      "pushed_at": "2026-05-25",
+      "title": "36氪首发 | 3D打印齿科龙头要切入桌面全彩造物，获君联、达晨等3亿+融资",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tn32yc/how_i_promote_my_side_project_with_video_content/",
+      "pushed_at": "2026-05-25",
+      "title": "How I promote my side project with video content without spending hours on production",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tn3083/i_built_a_reading_app_because_i_was_tired_of_ugly/",
+      "pushed_at": "2026-05-25",
+      "title": "I built a reading app because I was tired of ugly UI, subscriptions and accounts just for reading books.",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1tn4a7w/i_built_a_search_api_that_outputs_pure/",
+      "pushed_at": "2026-05-25",
+      "title": "I built a Search API that outputs pure, enterprise-grade JSON for RAG & LLM training. Here is the raw data.",
+      "score": 5
+    },
+    {
+      "url": "https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything",
+      "pushed_at": "2026-05-25",
+      "title": "Quoting Armin Ronacher",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/octelium/cordium",
+      "pushed_at": "2026-05-25",
+      "title": "Show HN: Cordium – FOSS sandbox platform with secretless infrastructure access",
+      "score": 5
+    },
+    {
+      "url": "https://forwardpasstechnology.substack.com/p/you-decide-when-you-receive-forwardpass",
+      "pushed_at": "2026-05-25",
+      "title": "Show HN: Porting my Newsletter to MCP – You set WHEN and HOW OFTEN to receive it",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tn3455/mimov25coder/",
+      "pushed_at": "2026-05-25",
+      "title": "MiMo-V2.5-coder",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tmkaua/is_nvidia_still_the_default_best_choice_for_local/",
+      "pushed_at": "2026-05-25",
+      "title": "Is NVIDIA still the default best choice for local LLMs in 2026?",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tmwgis/opensource_music_reccomendation_playlist_similar/",
+      "pushed_at": "2026-05-25",
+      "title": "opensource music reccomendation / playlist, similar to spotify radio / YT music mix?",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/666ghj/MiroFish",
+      "pushed_at": "2026-05-25",
+      "title": "666ghj/MiroFish",
+      "score": 5
+    },
+    {
+      "url": "https://36kr.com/newsflashes/3824598016283016?f=rss",
+      "pushed_at": "2026-05-25",
+      "title": "交大思诺：拟收购北交信通60.28%股权，股票复牌",
+      "score": 5
     }
   ]
 }
